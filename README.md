@@ -1,2 +1,1 @@
-# hello-world
-This is a first python code
+print("Hello World")
